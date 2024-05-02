@@ -38,7 +38,7 @@ const FaqAnswerQuestion = () => {
          <div className="section-title mb-45 for-hide-summary">
             <span className="section-title__subtitle mb-10">Faq</span>
             <h2>How can we <span>help you?</span></h2>
-            <p>&quot;Explore how we can support you. From resources to guidance, let's work together towards your goals.&quot;</p>
+            <p>&quot;Explore how we can support you. From resources to guidance, lets work together towards your goals.&quot;</p>
          </div>
          
          <div className="faq-accordion-two" id="faqAccordion">
