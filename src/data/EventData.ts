@@ -103,12 +103,12 @@ const event_data: DataType[] = [
    {
       id: 2,
       page:"home_2",
-      thumb: event2Thumb_2,
-      title: "Adopt a Orphan Child",
-      time: "Friday, 10:00am",
-      city: "Karimabad, Hunza",
-      date:28,
-      item_bg:"event-two-item--green"
+      thumb: event2Thumb_4,
+      title: "Education For Children",
+      time: "Satday, 09:00pm",
+      city: "Zulfiqarabad, Gilgit",
+      date:31,
+
    },
    {
       id: 3,
@@ -123,11 +123,12 @@ const event_data: DataType[] = [
    {
       id: 4,
       page:"home_2",
-      thumb: event2Thumb_4,
-      title: "Education For Children",
-      time: "Satday, 09:00pm",
-      city: "Zulfiqarabad, Gilgit",
-      date:31,
+      thumb: event2Thumb_2,
+      title: "Adopt a Orphan Child",
+      time: "Friday, 10:00am",
+      city: "Karimabad, Hunza",
+      date:28,
+      item_bg:"event-two-item--green"
    },
 
    // home three
@@ -185,7 +186,6 @@ const event_data: DataType[] = [
       "Dive into our 'Clean Water Event' and make waves of change. Join us as we work towards ensuring clean water access for all.",
       item_bg:"item--yellow",
    },
-
    {
       id: 2,
       page:"inner_page",
@@ -196,7 +196,6 @@ const event_data: DataType[] = [
       desc:"Join our 'Food For Hunger' initiative and make a difference on empty plates. Together, we can nourish communities and alleviate hunger.",
       item_bg:"item--green",
    },
-
    {
       id: 3,
       page:"inner_page",
@@ -204,7 +203,7 @@ const event_data: DataType[] = [
       title: "Adopt a Orphan Child",
       time: "Jan 18, 2013",
       city: "melbourne City",
-      desc:"Change a life forever of a child, through our 'Adopt an Orphan Child' program. Provide love, support, and a brighter future to a child in need, which can change a life of a children.",
+      desc:"Change a life forever of a child, through our 'Adopt an Orphan Child' program. Provide love, support, and a brighter future to a child in need",
       item_bg:"item--yellow",
    },
    {

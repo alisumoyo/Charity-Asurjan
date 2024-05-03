@@ -97,7 +97,7 @@ const features_data: DataType[] = [
       icon_name:"flaticon-donation",
       title:"Get Involved",
       desc:"Join us in making a difference by uplifting struggling families living below the poverty line. Your support can bring them into the mainstream of society. Alternatively, you can empower a woman who seeks to establish her own business, enabling her to meet her household's basic needs and build a brighter future.",
-      item_bg:"feature-item--green",
+      item_bg:"feature-item--green",   
    },
    // {
    //    id:3,

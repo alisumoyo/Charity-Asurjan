@@ -7,10 +7,10 @@ import volunteerThumb_4 from "@/assets/img/valunteer/valunteer4.jpg";
 import volunteerThumb_5 from "@/assets/img/valunteer/valunteer5.jpg";
 import volunteerThumb_6 from "@/assets/img/valunteer/valunteer6.jpg";
 
-import volunteer2Thumb_1 from "@/assets/img/valunteer/valunteer1.jpg";
-import volunteer2Thumb_2 from "@/assets/img/valunteer/valunteer2.jpg";
-import volunteer2Thumb_3 from "@/assets/img/valunteer/valunteer3.jpg";
-import volunteer2Thumb_4 from "@/assets/img/valunteer/valunteer4.jpg";
+import volunteer2Thumb_1 from "@/assets/img/valunteer/volunteer-two1.jpg";
+import volunteer2Thumb_2 from "@/assets/img/valunteer/volunteer-two2.jpg";
+import volunteer2Thumb_3 from "@/assets/img/valunteer/volunteer-two3.jpg";
+import volunteer2Thumb_4 from "@/assets/img/valunteer/volunteer-two4.jpg";
 import volunteer2Thumb_5 from "@/assets/img/valunteer/volunteer-two5.jpg";
 import volunteer2Thumb_6 from "@/assets/img/valunteer/volunteer-two6.jpg";
 import volunteer2Thumb_7 from "@/assets/img/valunteer/volunteer-two7.jpg";
@@ -37,20 +37,20 @@ const volunteer_data: DataType[] = [
    {
       id: 1,
       page: "home_1",
-      thumb: volunteerThumb_1,
+      thumb: volunteer2Thumb_1,
       name: "Rort Jonson",
       item_bg: "valunteer-item--green",
    },
    {
       id: 2,
       page: "home_1",
-      thumb: volunteerThumb_2,
+      thumb: volunteer2Thumb_2,
       name: "Leslie Alexander"
    },
    {
       id: 3,
       page: "home_1",
-      thumb: volunteerThumb_3,
+      thumb: volunteer2Thumb_3,
       name: "Kristin Watson",
       item_bg: "valunteer-item--yellow",
    },
@@ -80,20 +80,20 @@ const volunteer_data: DataType[] = [
    {
       id: 1,
       page: "home_2",
-      thumb: volunteer2Thumb_1,
+      thumb: volunteerThumb_1,
       name: "Ehsan Karim"
    },
    {
       id: 2,
       page: "home_2",
-      thumb: volunteer2Thumb_2,
+      thumb: volunteerThumb_2,
       name: "Savannah Nguyen",
       item_bg: "valunteer-two-item__des--yellow",
    },
    {
       id: 3,
       page: "home_2",
-      thumb: volunteer2Thumb_3,
+      thumb: volunteerThumb_3,
       name: "Darrell Steward",
       item_bg: "valunteer-two-item__des--green",
    },

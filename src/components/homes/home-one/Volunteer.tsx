@@ -1,18 +1,14 @@
 import Image from "next/image";
 import volunteer_data from "@/data/volunteerData";
 import Link from "next/link";
-
 import volunteerShape_1 from "@/assets/img/shapes/hand-glass.png";
 import volunteerShape_2 from "@/assets/img/shapes/circle-with-line-red.png";
 import volunteerShape_3 from "@/assets/img/shapes/heart.png";
 import volunteerShape_4 from "@/assets/img/shapes/house-heart.png";
-
 const Volunteer = ({ style }: any) => {
-
    const filteredVolunteers = volunteer_data
       .filter((item) => item.page === "home_1")
       .slice(0, style ? 3 : 6);
-
    return (
       <div className="volunteer-area pt-120 pb-90 rel z-1">
          <div className="container container-1170">
@@ -21,11 +17,10 @@ const Volunteer = ({ style }: any) => {
                   <div className="section-title text-center mb-60">
                      <span className="section-title__subtitle mb-10">Our Volunteers</span>
                      {style ? <h3>Meet <span>With Volunteers</span></h3> : <h2>Our <span>Volunteers</span> Style 01</h2>}
-                     <p>&quot;Connect with our dedicated volunteers and be part of a passionate community driving positive change together.&quot;</p>
+                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem voluptatem obcaecati consectetur adipisicing</p>
                   </div>
                </div>
             </div>
-
             <div className="row justify-content-center">
                {filteredVolunteers.map((item) => (
                   <div key={item.id} className="col-xl-4 col-sm-6">
@@ -50,7 +45,6 @@ const Volunteer = ({ style }: any) => {
                ))}
             </div>
          </div>
-         
          {style &&
             <div className="valunteet-shapres">
                <Image className="one top_image_bounce" src={volunteerShape_1} alt="Shape" />
@@ -62,5 +56,4 @@ const Volunteer = ({ style }: any) => {
       </div>
    )
 }
-
 export default Volunteer

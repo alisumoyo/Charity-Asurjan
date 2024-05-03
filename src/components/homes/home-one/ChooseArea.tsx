@@ -76,7 +76,7 @@ const ChooseArea = () => {
          <VideoPopup
             isVideoOpen={isVideoOpen}
             setIsVideoOpen={setIsVideoOpen}
-            videoId={"tUP5S4YdEJo"}
+            videoId={"R8Dp2J6QWoY"}
          />
          {/* video modal end */}
       </>

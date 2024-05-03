@@ -68,7 +68,7 @@ const VolunteerVideo = ({ style }: any) => {
                <div className="col-xl-7">
                   <div className="become-volunteer-video overlay mb-55 image">
                      <Image src={volunteerVideoThumb} alt="Video" />
-                     <a className="video-play video-play--four" href="https://www.youtube.com/embed/Wimkqo8gDZ0"
+                     <a className="video-play video-play--four" href="https://youtu.be/BWuyvhr7tyM"
                         data-effect="mfp-zoom-in"><i className="fa fa-play"></i></a>
                   </div>
                </div>
