@@ -65,8 +65,8 @@ const blog_data: DataType[] = [
       page: "home_2",
       thumb: blog2Thumb_1,
       date: 13,
-      title: "tttttincidunt egeting semper",
-      desc: "Maaaaaximus a augue. Nullam ante nunc poraretra are oullam fringill sem ealiquam suscipit.......",
+      title: "tincidunt egeting semper",
+      desc: "Maaaaaximus a augue. Nullam ante nunc poraretra are oullam fringill sem ealiquam.......",
    },
    {
       id: 2,

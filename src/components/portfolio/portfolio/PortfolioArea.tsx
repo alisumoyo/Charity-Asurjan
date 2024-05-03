@@ -19,7 +19,7 @@ const PortfolioArea = () => {
     return portfolio_data.slice(0, endIndex).map((item) => (
       <div key={item.id} className="col-xl-4 col-md-6 item cleanWater foodHealth">
         <div className="portfolio-item image">
-          <Image src={item.thumb} alt="Portfolio" />
+          <Image src={item.thumb} alt="Portfolio" style={{height:'295px'}}/>
           <div className="portfolio-item__over">
             <a className="details-btn" href="portfolio-details.html">
               <i className="flaticon-chevron"></i>

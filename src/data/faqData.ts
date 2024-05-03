@@ -35,9 +35,9 @@ const faq_data = [
    {
       id: 2,
       page: "home_2",
-      question: "Why We are Help African Childen?",
+      question: "Why We Help Childrens?",
       answer: 
-      "We support African children because every child deserves a chance at a better future. Join us in providing opportunities and hope.",
+      "We support children because every child deserves a chance at a better future. Join us in providing opportunities and hope.",
       showAnswer: false,
    },
    {

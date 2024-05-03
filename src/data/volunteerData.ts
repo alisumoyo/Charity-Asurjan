@@ -81,7 +81,7 @@ const volunteer_data: DataType[] = [
       id: 1,
       page: "home_2",
       thumb: volunteer2Thumb_1,
-      name: "Bsssrooklyn Simmons"
+      name: "Ehsan Ali"
    },
    {
       id: 2,
@@ -101,7 +101,7 @@ const volunteer_data: DataType[] = [
       id: 4,
       page: "home_2",
       thumb: volunteer2Thumb_4,
-      name: "Lesliwwe Alexander"
+      name: "Lesli Alexnder"
    },
    {
       id: 5,

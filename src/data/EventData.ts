@@ -204,8 +204,7 @@ const event_data: DataType[] = [
       title: "Adopt a Orphan Child",
       time: "Jan 18, 2013",
       city: "melbourne City",
-      desc:
-      "Change a life forever through our 'Adopt an Orphan Child' program. Provide love, support, and a brighter future to a child in need.",
+      desc:"Change a life forever of a child, through our 'Adopt an Orphan Child' program. Provide love, support, and a brighter future to a child in need, which can change a life of a children.",
       item_bg:"item--yellow",
    },
    {
