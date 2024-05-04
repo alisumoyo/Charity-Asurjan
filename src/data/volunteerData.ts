@@ -37,8 +37,8 @@ const volunteer_data: DataType[] = [
    {
       id: 1,
       page: "home_1",
-      thumb: volunteer2Thumb_1,
-      name: "Rort Jonson",
+      thumb: volunteer2Thumb_8,
+      name: "Hasil Murad",
       item_bg: "valunteer-item--green",
    },
    {
@@ -57,21 +57,22 @@ const volunteer_data: DataType[] = [
    {
       id: 4,
       page: "home_1",
-      thumb: volunteerThumb_4,
-      name: "Guy Hawkins",
+      thumb: volunteer3Thumb_1,
+      name: "Lal Khan ",
       item_bg: "valunteer-item--green",
    },
    {
       id: 5,
       page: "home_1",
-      thumb: volunteerThumb_5,
-      name: "Theresa Webb"
+      thumb: volunteer3Thumb_6,
+      name: "Ali Nazar"
+
    },
    {
       id: 6,
       page: "home_1",
-      thumb: volunteerThumb_6,
-      name: "Brooklyn Simmons",
+      thumb: volunteer3Thumb_4,
+      name: "Sangul Khan",
       item_bg: "valunteer-item--yellow",
    },
 
@@ -126,8 +127,8 @@ const volunteer_data: DataType[] = [
    {
       id: 8,
       page: "home_2",
-      thumb: volunteer2Thumb_8,
-      name: "Hasil Murad"
+      thumb: volunteer2Thumb_1,
+      name: "Rort Jonson",
    },
 
    // home three
@@ -135,8 +136,8 @@ const volunteer_data: DataType[] = [
    {
       id: 1,
       page: "home_3",
-      thumb: volunteer3Thumb_1,
-      name: "Lal Khan "
+      thumb: volunteerThumb_4,
+      name: "Guy Hawkins",
    },
    {
       id: 2,
@@ -153,8 +154,8 @@ const volunteer_data: DataType[] = [
    {
       id: 4,
       page: "home_3",
-      thumb: volunteer3Thumb_4,
-      name: "Sangul Khan"
+      thumb: volunteerThumb_6,
+      name: "Brooklyn Simmons",
    },
    {
       id: 5,
@@ -165,8 +166,8 @@ const volunteer_data: DataType[] = [
    {
       id: 6,
       page: "home_3",
-      thumb: volunteer3Thumb_6,
-      name: "Ali Nazar"
+      thumb: volunteerThumb_5,
+      name: "Theresa Webb"
    },
    {
       id: 7,
