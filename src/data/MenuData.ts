@@ -54,7 +54,7 @@ const menu_data: MenuItem[] = [
         title: "Portfolio",
         link: "/home-two",
         sub_menus: [
-            { link: "/portfolio", title: "Portfolio" },
+            // { link: "/portfolio", title: "Portfolio" },
             { link: "/portfolio-details", title: "Portfolio Details" },
             { link: "/donate", title: "Donate" }
         ],

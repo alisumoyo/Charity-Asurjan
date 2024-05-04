@@ -7,7 +7,7 @@ import volunteerThumb_4 from "@/assets/img/valunteer/valunteer4.jpg";
 import volunteerThumb_5 from "@/assets/img/valunteer/valunteer5.jpg";
 import volunteerThumb_6 from "@/assets/img/valunteer/valunteer6.jpg";
 
-import volunteer2Thumb_1 from "@/assets/img/valunteer/volunteer-two1.jpg";
+// import volunteer2Thumb_1 from "@/assets/img/valunteer/volunteer-two1.jpg";
 import volunteer2Thumb_2 from "@/assets/img/valunteer/volunteer-two2.jpg";
 import volunteer2Thumb_3 from "@/assets/img/valunteer/volunteer-two3.jpg";
 import volunteer2Thumb_4 from "@/assets/img/valunteer/volunteer-two4.jpg";
@@ -17,13 +17,13 @@ import volunteer2Thumb_7 from "@/assets/img/valunteer/volunteer-two7.jpg";
 import volunteer2Thumb_8 from "@/assets/img/valunteer/volunteer-two8.jpg";
 
 import volunteer3Thumb_1 from "@/assets/img/valunteer/volunteer-three1.jpg";
-import volunteer3Thumb_2 from "@/assets/img/valunteer/volunteer-three2.jpg";
+// import volunteer3Thumb_2 from "@/assets/img/valunteer/volunteer-three2.jpg";
 import volunteer3Thumb_3 from "@/assets/img/valunteer/volunteer-three3.jpg";
 import volunteer3Thumb_4 from "@/assets/img/valunteer/volunteer-three4.jpg";
-import volunteer3Thumb_5 from "@/assets/img/valunteer/volunteer-three5.jpg";
+// import volunteer3Thumb_5 from "@/assets/img/valunteer/volunteer-three5.jpg";
 import volunteer3Thumb_6 from "@/assets/img/valunteer/volunteer-three6.jpg";
 import volunteer3Thumb_7 from "@/assets/img/valunteer/volunteer-three7.jpg";
-import volunteer3Thumb_8 from "@/assets/img/valunteer/volunteer-three8.jpg";
+// import volunteer3Thumb_8 from "@/assets/img/valunteer/volunteer-three8.jpg";
 
 interface DataType {
    id: number;
@@ -81,8 +81,8 @@ const volunteer_data: DataType[] = [
    {
       id: 1,
       page: "home_2",
-      thumb: volunteerThumb_1,
-      name: "Ehsan Karim"
+      thumb: volunteer2Thumb_8,
+      name: "Hasil Murad",
    },
    {
       id: 2,
@@ -94,41 +94,42 @@ const volunteer_data: DataType[] = [
    {
       id: 3,
       page: "home_2",
-      thumb: volunteerThumb_3,
-      name: "Didar Baqir",
+      thumb: volunteer2Thumb_4,
+      name: "Fida Hussain",
       item_bg: "valunteer-two-item__des--green",
    },
    {
       id: 4,
       page: "home_2",
-      thumb: volunteer2Thumb_4,
-      name: "Fida Hussain"
+      thumb: volunteerThumb_1,
+      name: "Ehsan Karim"
    },
    {
       id: 5,
       page: "home_2",
-      thumb: volunteer2Thumb_5,
-      name: "Gari Khan"
+      thumb: volunteer2Thumb_7,
+      name: "Zafar Iqbal",
    },
    {
       id: 6,
       page: "home_2",
-      thumb: volunteer2Thumb_6,
-      name: "Aziz Karim",
+      thumb: volunteerThumb_3,
+      name: "Didar Baqir",
       item_bg: "valunteer-two-item__des--yellow",
    },
    {
       id: 7,
       page: "home_2",
-      thumb: volunteer2Thumb_7,
-      name: "Zafar Iqbal",
+      thumb: volunteer2Thumb_5,
+      name: "Gari Khan",
       item_bg: "valunteer-two-item__des--green",
    },
    {
       id: 8,
       page: "home_2",
-      thumb: volunteer2Thumb_1,
-      name: "Rort Jonson",
+      thumb: volunteer2Thumb_6,
+      name: "Aziz Karim",
+      
    },
 
    // home three
@@ -141,9 +142,10 @@ const volunteer_data: DataType[] = [
    },
    {
       id: 2,
-      page: "home_3",
-      thumb: volunteer3Thumb_2,
-      name: "Sana Khan"
+      page: "home_3",      
+      thumb: volunteer3Thumb_7,
+      name: "Aziz Ahmed Khan"
+  
    },
    {
       id: 3,
@@ -160,27 +162,29 @@ const volunteer_data: DataType[] = [
    {
       id: 5,
       page: "home_3",
-      thumb: volunteer3Thumb_5,
-      name: "Ghulam Hussain"
-   },
-   {
-      id: 6,
-      page: "home_3",
       thumb: volunteerThumb_5,
       name: "Theresa Webb"
    },
-   {
-      id: 7,
-      page: "home_3",
-      thumb: volunteer3Thumb_7,
-      name: "Aziz Ahmed Khan"
-   },
-   {
-      id: 8,
-      page: "home_3",
-      thumb: volunteer3Thumb_8,
-      name: "Leslie Alexander"
-   },
+//    {
+//       id: 6,
+//       page: "home_3",
+//       thumb: volunteer3Thumb_5,
+//       name: "Ghulam Hussain"
+//    },
+//    {
+//       id: 7,
+//       page: "home_3",
+//       thumb: volunteer3Thumb_8,
+//       name: "Leslie Alexander"
+
+//    },
+//    {
+//       // id: 8,
+//       // page: "home_3",
+//       // thumb: volunteer3Thumb_2,
+//       // name: "Sana Khan"
+
+//    },
 ]
 
 export default volunteer_data;
