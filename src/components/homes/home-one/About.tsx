@@ -24,7 +24,7 @@ const About = () => {
                                  <i className="flaticon-charity"></i>
                               </div>
                               <div className="project-complete__content">
-                                 <h5>We Complate 2000+ Project</h5>
+                                 <h5>We Complate 1000+ Project</h5>
                                  <span>Donet for charity</span>
                               </div>
                            </div>

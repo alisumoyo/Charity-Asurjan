@@ -87,47 +87,47 @@ const volunteer_data: DataType[] = [
       id: 2,
       page: "home_2",
       thumb: volunteerThumb_2,
-      name: "Savannah Nguyen",
+      name: "Muhammad Aslam",
       item_bg: "valunteer-two-item__des--yellow",
    },
    {
       id: 3,
       page: "home_2",
       thumb: volunteerThumb_3,
-      name: "Darrell Steward",
+      name: "Didar Baqir",
       item_bg: "valunteer-two-item__des--green",
    },
    {
       id: 4,
       page: "home_2",
       thumb: volunteer2Thumb_4,
-      name: "Lesli Alexnder"
+      name: "Fida Hussain"
    },
    {
       id: 5,
       page: "home_2",
       thumb: volunteer2Thumb_5,
-      name: "Brooklyn Simmons"
+      name: "Gari Khan"
    },
    {
       id: 6,
       page: "home_2",
       thumb: volunteer2Thumb_6,
-      name: "Savannah Nguyen",
+      name: "Aziz Karim",
       item_bg: "valunteer-two-item__des--yellow",
    },
    {
       id: 7,
       page: "home_2",
       thumb: volunteer2Thumb_7,
-      name: "Darrell Steward",
+      name: "Zafar Iqbal",
       item_bg: "valunteer-two-item__des--green",
    },
    {
       id: 8,
       page: "home_2",
       thumb: volunteer2Thumb_8,
-      name: "Leslie Alexander"
+      name: "Hasil Murad"
    },
 
    // home three
@@ -136,43 +136,43 @@ const volunteer_data: DataType[] = [
       id: 1,
       page: "home_3",
       thumb: volunteer3Thumb_1,
-      name: "Brooklyn Simmons"
+      name: "Lal Khan "
    },
    {
       id: 2,
       page: "home_3",
       thumb: volunteer3Thumb_2,
-      name: "Savannah Nguyen"
+      name: "Sana Khan"
    },
    {
       id: 3,
       page: "home_3",
       thumb: volunteer3Thumb_3,
-      name: "Darrell Steward"
+      name: "Kaleem-ullah"
    },
    {
       id: 4,
       page: "home_3",
       thumb: volunteer3Thumb_4,
-      name: "Leslie Alexander"
+      name: "Sangul Khan"
    },
    {
       id: 5,
       page: "home_3",
       thumb: volunteer3Thumb_5,
-      name: "Brooklyn Simmons"
+      name: "Ghulam Hussain"
    },
    {
       id: 6,
       page: "home_3",
       thumb: volunteer3Thumb_6,
-      name: "Savannah Nguyen"
+      name: "Ali Nazar"
    },
    {
       id: 7,
       page: "home_3",
       thumb: volunteer3Thumb_7,
-      name: "Darrell Steward"
+      name: "Aziz Ahmed Khan"
    },
    {
       id: 8,
