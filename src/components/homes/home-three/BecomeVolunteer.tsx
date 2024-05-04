@@ -20,7 +20,7 @@ const BecomeVolunteer = ({ style }: any) => {
                   <div className="col-lg-6">
                      {style ? (<div className="volunteer-left-video rel rmb-75">
                         <a onClick={() => setIsVideoOpen(true)} style={{ cursor: "pointer" }} className="video-play video-play--three" data-effect="mfp-zoom-in"><i className="flaticon-play-1"></i></a>
-                        <Image src={volunteerImg_1} alt="valunteer" />
+                        {/* <Image src={volunteerImg_1} alt="valunteer" /> */}
                         <Image className="small-image" src={volunteerImg_2} alt="valunteer" />
                      </div>) : (<div className="volunteer-image rmb-65">
                         <Image src={volunteerImg_3} alt="valunteer" />
