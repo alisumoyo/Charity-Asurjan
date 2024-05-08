@@ -10,7 +10,7 @@ const Volunteer = ({ style }: any) => {
 
    return (
       <div className={`volunteer-area-three rel z-1 ${style ? "pt-120" : "pb-90"}`}>
-         <div className="container">
+         {/* <div className="container">
             <div className="row justify-content-center">
                <div className="col-xl-6 col-lg-8 col-md-10">
                   <div className="section-title text-center mb-60">
@@ -19,9 +19,9 @@ const Volunteer = ({ style }: any) => {
                      <p> &quot;Meet our dedicated volunteers, the heartbeat of our mission. Join our passionate community and make a difference alongside these inspiring individuals.&quot;</p>
                   </div>
                </div>
-            </div>
+            </div> */}
             
-            <div className="row justify-content-center">
+            {/* <div className="row justify-content-center">
                {filteredVolunteers.map((item) => (
                   <div key={item.id} className="col-xl-3 col-sm-6">
                      <div className="valunteer-item valunteer-item--three">
@@ -40,8 +40,8 @@ const Volunteer = ({ style }: any) => {
                      </div>
                   </div>
                ))}
-            </div>
-         </div>
+            </div> */}
+         {/* </div> */}
       </div>
    );
 };

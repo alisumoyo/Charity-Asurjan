@@ -9,7 +9,7 @@ const EventSlider = () => {
       <>
          <HeaderOne style_1={false} style_2={false} />
          <main>
-            <Breadcrumb page_title="Our Events Slider" page_list="Event" style={false} />
+            <Breadcrumb page_title="Our Events" page_list="Event" style={false} />
             <EventSliderArea/>
             <Brand style={true} />
          </main>

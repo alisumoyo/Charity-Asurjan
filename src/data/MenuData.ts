@@ -40,12 +40,12 @@ const menu_data: MenuItem[] = [
         id: 3,
         has_dropdown: true,
         title: "Events",
-        link: "/home-two",
-        sub_menus: [
-        //     { link: "/events", title: "Events" },
-            { link: "/events-slider", title: "Events Slider" },
-            { link: "/event-details", title: "Events Details" },
-        ],
+        link:  "/events-slider",
+        // sub_menus: [
+        // //     { link: "/events", title: "Events" },
+        //     { link: "/events-slider", title: "Events Slider" },
+        //     { link: "/event-details", title: "Events Details" },
+        // ],
     },
 
     {

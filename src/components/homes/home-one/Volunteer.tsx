@@ -8,7 +8,7 @@ import volunteerShape_4 from "@/assets/img/shapes/house-heart.png";
 const Volunteer = ({ style }: any) => {
    const filteredVolunteers = volunteer_data
       .filter((item) => item.page === "home_1")
-      .slice(0, style ? 3 : 6);
+      .slice(0, style ? 3 : 8);
    return (
       <div className="volunteer-area pt-120 pb-90 rel z-1">
          <div className="container container-1170">
@@ -16,8 +16,8 @@ const Volunteer = ({ style }: any) => {
                <div className="col-xl-6 col-lg-8 col-md-10">
                   <div className="section-title text-center mb-60">
                      <span className="section-title__subtitle mb-10">Our Volunteers</span>
-                     {style ? <h3>Meet <span>With Volunteers</span></h3> : <h2>Our <span>Volunteers</span> Style 01</h2>}
-                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem voluptatem obcaecati consectetur adipisicing</p>
+                     {style ? <h3>Meet <span>With Volunteers</span></h3> : <h2>Our Volunteers</h2>}
+                     <p>&quot;Our volunteers: the unsung heroes who selflessly give their time to make a difference in our communities.&quot;</p>
                   </div>
                </div>
             </div>

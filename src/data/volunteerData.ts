@@ -37,15 +37,16 @@ const volunteer_data: DataType[] = [
    {
       id: 1,
       page: "home_1",
-      thumb: volunteer2Thumb_8,
-      name: "Hasil Murad",
+      thumb: volunteerThumb_4,
+      name: "Guy Hawkins",
       item_bg: "valunteer-item--green",
    },
+   
    {
       id: 2,
       page: "home_1",
-      thumb: volunteer2Thumb_2,
-      name: "Leslie Alexander"
+      thumb: volunteer2Thumb_8,
+      name: "Hasil Murad",
    },
    {
       id: 3,
@@ -71,100 +72,113 @@ const volunteer_data: DataType[] = [
    {
       id: 6,
       page: "home_1",
-      thumb: volunteer3Thumb_4,
-      name: "Sangul Khan",
-      item_bg: "valunteer-item--yellow",
-   },
-
-   // home two
-
-   {
-      id: 1,
-      page: "home_2",
-      thumb: volunteer2Thumb_8,
-      name: "Hasil Murad",
+      thumb: volunteerThumb_1,
+      name: "Ehsan Karim",
    },
    {
-      id: 2,
-      page: "home_2",
-      thumb: volunteerThumb_2,
-      name: "Muhammad Aslam",
-      item_bg: "valunteer-two-item__des--yellow",
-   },
-   {
-      id: 3,
-      page: "home_2",
+      id: 7,
+      page: "home_1",
       thumb: volunteer2Thumb_4,
       name: "Fida Hussain",
       item_bg: "valunteer-two-item__des--green",
    },
    {
-      id: 4,
-      page: "home_2",
-      thumb: volunteerThumb_1,
-      name: "Ehsan Karim"
-   },
-   {
-      id: 5,
-      page: "home_2",
-      thumb: volunteer2Thumb_7,
-      name: "Zafar Iqbal",
-   },
-   {
-      id: 6,
-      page: "home_2",
-      thumb: volunteerThumb_3,
-      name: "Didar Baqir",
-      item_bg: "valunteer-two-item__des--yellow",
-   },
-   {
-      id: 7,
-      page: "home_2",
-      thumb: volunteer2Thumb_5,
-      name: "Gari Khan",
-      item_bg: "valunteer-two-item__des--green",
-   },
-   {
       id: 8,
-      page: "home_2",
-      thumb: volunteer2Thumb_6,
-      name: "Aziz Karim",
+      page: "home_1",
+      thumb: volunteer3Thumb_4,
+      name: "Sangul Khan",
+      item_bg: "valunteer-item--yellow",
+   },
+
+   // // home two
+
+   // {
+   //    id: 1,
+   //    page: "home_2",
+   //    thumb: volunteer2Thumb_8,
+   //    name: "Hasil Murad",
+   // },
+   // {
+   //    id: 2,
+   //    page: "home_2",
+   //    thumb: volunteerThumb_2,
+   //    name: "Muhammad Aslam",
+   //    item_bg: "valunteer-two-item__des--yellow",
+   // },
+   // {
+   //    id: 3,
+   //    page: "home_2",
+   //    thumb: volunteer2Thumb_4,
+   //    name: "Fida Hussain",
+   //    item_bg: "valunteer-two-item__des--green",
+   // },
+   // {
+   //    id: 4,
+   //    page: "home_2",
+   //    thumb: volunteerThumb_1,
+   //    name: "Ehsan Karim"
+   // },
+   // {
+   //    id: 5,
+   //    page: "home_2",
+   //    thumb: volunteer2Thumb_7,
+   //    name: "Zafar Iqbal",
+   // },
+   // {
+   //    id: 6,
+   //    page: "home_2",
+   //    thumb: volunteerThumb_3,
+   //    name: "Didar Baqir",
+   //    item_bg: "valunteer-two-item__des--yellow",
+   // },
+   // {
+   //    id: 7,
+   //    page: "home_2",
+   //    thumb: volunteer2Thumb_5,
+   //    name: "Gari Khan",
+   //    item_bg: "valunteer-two-item__des--green",
+   // },
+   // {
+   //    id: 8,
+   //    page: "home_2",
+   //    thumb: volunteer2Thumb_6,
+   //    name: "Aziz Karim",
       
-   },
+   // },
 
-   // home three
+   // // home three
 
-   {
-      id: 1,
-      page: "home_3",
-      thumb: volunteerThumb_4,
-      name: "Guy Hawkins",
-   },
-   {
-      id: 2,
-      page: "home_3",      
-      thumb: volunteer3Thumb_7,
-      name: "Aziz Ahmed Khan"
+   // {
+   //    id: 1,
+   //    page: "home_3",
+   //    thumb: volunteerThumb_4,
+   //    name: "Guy Hawkins",
+   // },
+   // {
+   //    id: 2,
+   //    page: "home_3",      
+   //    thumb: volunteer3Thumb_7,
+   //    name: "Aziz Ahmed Khan"
   
-   },
-   {
-      id: 3,
-      page: "home_3",
-      thumb: volunteer3Thumb_3,
-      name: "Kaleem-ullah"
-   },
-   {
-      id: 4,
-      page: "home_3",
-      thumb: volunteerThumb_6,
-      name: "Brooklyn Simmons",
-   },
-   {
-      id: 5,
-      page: "home_3",
-      thumb: volunteerThumb_5,
-      name: "Theresa Webb"
-   },
+   // },
+   // {
+   //    id: 3,
+   //    page: "home_3",
+   //    thumb: volunteer3Thumb_3,
+   //    name: "Kaleem-ullah"
+   // },
+   // {
+   //    id: 4,
+   //    page: "home_3",
+   //    thumb: volunteerThumb_6,
+   //    name: "Brooklyn Simmons",
+   // },
+   // {
+   //    id: 5,
+   //    page: "home_3",
+   //    thumb: volunteerThumb_5,
+   //    name: "Theresa Webb"
+   // },
 //    {
 //       id: 6,
 //       page: "home_3",

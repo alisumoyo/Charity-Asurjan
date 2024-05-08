@@ -9,7 +9,7 @@ const EventDetails = () => {
       <>
          <HeaderOne />
          <main>
-            <Breadcrumb page_title="Our Events Slider" page_list="Event" />
+            <Breadcrumb page_title="Our Events Details" page_list="Event" />
             <EventDetailsArea/>
             <Brand style={true} />
          </main>
