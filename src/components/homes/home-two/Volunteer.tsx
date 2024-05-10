@@ -29,7 +29,7 @@ const Volunteer = ({ style }: any) => {
                         </div>
                         <div className={`valunteer-two-item__des ${item.item_bg}`}>
                            <h5>{item.name}</h5>
-                           <span>volunteer</span>
+                           <span>{item.epithet}</span>
                         </div>
                      </div>
                   </div>

@@ -10,7 +10,7 @@ const Volunteers = () => {
       <>
          <HeaderOne style_1={false} style_2={false} />
          <main>
-            <Breadcrumb page_title="Our Volinteers" page_list="Volinteers" style={false} />
+            <Breadcrumb page_title=" Volinteers" page_list="Volinteers" style={false} />
             <Volunteer style={false} />
             <VolunteerTwo style={false} />
             <VolunteerThree style={false} />

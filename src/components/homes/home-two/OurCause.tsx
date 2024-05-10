@@ -34,11 +34,11 @@ const OurCause = () => {
                            <h4><Link href="/causes">{item.title}</Link></h4>
                            <div className="cause-price cause-price--green">
                               <span>Raised : ${item.raised}</span>
-                              <span>Goal : ${item.goal}</span>
+                              {/* <span>Goal : ${item.goal}</span> */}
                            </div>
                            <p> {item.desc}</p>
                            <div className="cause-btn">
-                              <Link className={`cr-btn ${item.btn_bg}`} href="#">Donation now</Link>
+                              <Link className={`cr-btn ${item.btn_bg}`} href="/contact">Donation now</Link>
                            </div>
                         </div>
                      </div>

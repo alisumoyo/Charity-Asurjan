@@ -8,7 +8,7 @@ import volunteerShape_4 from "@/assets/img/shapes/house-heart.png";
 const Volunteer = ({ style }: any) => {
    const filteredVolunteers = volunteer_data
       .filter((item) => item.page === "home_1")
-      .slice(0, style ? 3 : 8);
+      .slice(0, style ? 3 : 23);
    return (
       <div className="volunteer-area pt-120 pb-90 rel z-1">
          <div className="container container-1170">
