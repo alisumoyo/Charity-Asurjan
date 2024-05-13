@@ -14,7 +14,6 @@ import volunteer3Thumb_6 from "@/assets/img/valunteer/volunteer-three6.jpg";
 import volunteer1Thumb_9 from "@/assets/img/valunteer/volunteer/vounter9.png";
 import volunteer1Thumb_10 from "@/assets/img/valunteer/volunteer/vounter10.png";
 import volunteer1Thumb_11 from "@/assets/img/valunteer/volunteer/vounter11.png";
-import volunteer1Thumb_12 from "@/assets/img/valunteer/volunteer/vounter12.png";
 import volunteer1Thumb_13 from "@/assets/img/valunteer/volunteer/vounter13.png";
 import volunteer1Thumb_14 from "@/assets/img/valunteer/volunteer/vounter14.png";
 import volunteer1Thumb_15 from "@/assets/img/valunteer/volunteer/vounter15.png";
@@ -79,7 +78,7 @@ const volunteer_data: DataType[] = [  // eslint-disable-line
       id: 6,
       page: "home_1",
       thumb: volunteer2Thumb_4,
-      name: "Kristin Watson",
+      name: "Afsar-wali-khan",
       epithet:'Volnteer',
       item_bg: "valunteer-item--green",
    },
@@ -95,7 +94,7 @@ const volunteer_data: DataType[] = [  // eslint-disable-line
       id: 8,
       page: "home_1",
       thumb: volunteer3Thumb_4,
-      name: "Sangul Khan",
+      name: "Kiramat Baqir",
       item_bg: "valunteer-item--yellow",
       epithet:'Volnteer'
    },
@@ -103,7 +102,7 @@ const volunteer_data: DataType[] = [  // eslint-disable-line
       id: 9,
       page: "home_1",
       thumb: volunteer1Thumb_9,
-      name: "Sangul Khan",
+      name: "Zakir Hussain",
       item_bg: "valunteer-item--yellow",
       epithet:'Volnteer'
    },,
@@ -111,7 +110,7 @@ const volunteer_data: DataType[] = [  // eslint-disable-line
       id: 10,
       page: "home_1",
       thumb: volunteer1Thumb_10,
-      name: "Sangul Khan",
+      name: "Zafar Iqbal",
       item_bg: "valunteer-item--yellow",
       epithet:'Volnteer'
    },,
@@ -122,21 +121,13 @@ const volunteer_data: DataType[] = [  // eslint-disable-line
       name: "Sangul Khan",
       item_bg: "valunteer-item--yellow",
       epithet:'Volnteer'
-   },,
-   {
-      id: 12,
-      page: "home_1",
-      thumb: volunteer1Thumb_12,
-      name: "Sangul Khan",
-      item_bg: "valunteer-item--yellow",
-      epithet:'Volnteer'
    },
 
    {
       id: 13,
       page: "home_1",
       thumb: volunteer1Thumb_13,
-      name: "Sangul Khan",
+      name: "Fazal Baqir",
       item_bg: "valunteer-item--yellow",
       epithet:'Volnteer'
    },
@@ -144,7 +135,7 @@ const volunteer_data: DataType[] = [  // eslint-disable-line
       id: 14,
       page: "home_1",
       thumb: volunteer1Thumb_14,
-      name: "Sangul Khan",
+      name: "Kaleem-ul-llah",
       item_bg: "valunteer-item--yellow",
       epithet:'Volnteer'
    },
@@ -152,7 +143,7 @@ const volunteer_data: DataType[] = [  // eslint-disable-line
       id: 15,
       page: "home_1",
       thumb: volunteer1Thumb_15,
-      name: "Sangul Khan",
+      name: "Karim Muhammad",
       item_bg: "valunteer-item--yellow",
       epithet:'Volnteer'
    },
@@ -160,7 +151,7 @@ const volunteer_data: DataType[] = [  // eslint-disable-line
       id: 16,
       page: "home_1",
       thumb: volunteer1Thumb_16,
-      name: "Sangul Khan",
+      name: "Aziz Ahmad Khan",
       item_bg: "valunteer-item--yellow",
       epithet:'Volnteer'
    },
@@ -168,7 +159,7 @@ const volunteer_data: DataType[] = [  // eslint-disable-line
       id: 17,
       page: "home_1",
       thumb: volunteer1Thumb_17,
-      name: "Sangul Khan",
+      name: "Unknown",
       item_bg: "valunteer-item--yellow",
       epithet:'Volnteer'
    },
@@ -176,7 +167,7 @@ const volunteer_data: DataType[] = [  // eslint-disable-line
       id: 18,
       page: "home_1",
       thumb: volunteer1Thumb_18,
-      name: "Sangul Khan",
+      name: "Gari khan",
       item_bg: "valunteer-item--yellow",
       epithet:'Volnteer'
    },
@@ -184,7 +175,7 @@ const volunteer_data: DataType[] = [  // eslint-disable-line
       id: 19,
       page: "home_1",
       thumb: volunteer1Thumb_19,
-      name: "Sangul Khan",
+      name: "Didar Baqir",
       item_bg: "valunteer-item--yellow",
       epithet:'Volnteer'
    },
