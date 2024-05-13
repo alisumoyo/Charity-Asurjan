@@ -38,7 +38,7 @@ const Volunteer = ({ style }: any) => {
                         </div>
                         <div className="valunteer-item__designation">
                            <h5>{item.name}</h5>
-                           <span>volunteer</span>
+                           <span>{item.epithet}</span>
                         </div>
                      </div>
                   </div>

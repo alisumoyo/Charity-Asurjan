@@ -32,8 +32,6 @@ const menu_data: MenuItem[] = [
     //         { link: "/causes-details", title: "Causes Details" },
     //     ],
     // },
-
-
  
 
     {

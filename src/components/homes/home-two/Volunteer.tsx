@@ -7,6 +7,10 @@ const Volunteer = ({ style }: any) => {
       .filter((item) => item.page === "home_1")
       .slice(0, style ? 4 : 0);
 
+
+        
+      
+
    return (
       <div className={`volunteer-area-two pb-90 rel z-1 ${style ? "pt-120" : ""}`}>
          <div className="container">
