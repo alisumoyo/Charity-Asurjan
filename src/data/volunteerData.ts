@@ -22,7 +22,6 @@ import volunteer1Thumb_17 from "@/assets/img/valunteer/volunteer/vounter17.png";
 import volunteer1Thumb_18 from "@/assets/img/valunteer/volunteer/vounter18.png";
 import volunteer1Thumb_19 from "@/assets/img/valunteer/volunteer/vounter19.png";
 
-
 interface DataType {
    id: number;
    page: string;
@@ -32,8 +31,8 @@ interface DataType {
    epithet: string;
 }
  // @ts-ignore 
-const volunteer_data: DataType[] = [  // eslint-disable-line
-   {
+ const volunteer_data: DataType[] = [  // eslint-disable-line
+ {
       id: 1,
       page: "home_1",
       thumb: volunteer2Thumb_8,

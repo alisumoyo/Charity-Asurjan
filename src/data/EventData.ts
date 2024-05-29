@@ -189,7 +189,7 @@ const event_data: DataType[] = [
       id: 2,
       page:"inner_page",
       thumb: eventInnerThumb_2,
-      title: "Women Impoverment",
+      title: "Women Impoverment in the socity",
       time: "Jan 18, 2013",
       city: "melbourne City",
       desc:"Women impoverishment refers to the systemic economic deprivation and marginalization experienced by women worldwide",

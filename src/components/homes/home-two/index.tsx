@@ -15,7 +15,7 @@ import Blog from "../home-one/Blog"
 import Brand from "@/components/common/Brand"
 import FooterTwo from "@/layout/footers/FooterTwo"
 
-const HomeTwo = () => {
+const Home = () => {
   return (
     <>
       <HeaderOne style_1={true} style_2={false} />
@@ -40,4 +40,4 @@ const HomeTwo = () => {
   )
 }
 
-export default HomeTwo
+export default Home

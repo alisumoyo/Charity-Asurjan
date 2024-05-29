@@ -47,7 +47,7 @@ const HeaderOne = ({ style_1, style_2 }: any) => {
               <Image
                 src={style_2 ? HeaderLogo_2 : HeaderLogo_1}
                 alt="img"
-                style={{ width: "100px", height: "70px" }} 
+                style={{ width: "100px", height: "70px",padding: '5px' }} 
               />
             </Link>
           </div>

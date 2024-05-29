@@ -32,13 +32,13 @@ const CircleProgress = ({
       }
     };
   }, []);
-
+  
   useEffect(() => {
     if (isInViewport && percentage <= finish) {
       const interval = duration / 100;
   
       const easeOutQuad = (t:any) => t * (2 - t);
-  
+ 
       const increment = () => {
         setTimeout(() => {
           const newPercentage = percentage + 1;

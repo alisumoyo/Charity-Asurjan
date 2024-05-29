@@ -54,33 +54,24 @@ const features_data: DataType[] = [
       id: 1,
       page:"single_features",
       title: "Child Education Help",
-      desc: "Your little help can make milion childrean smile model sentence structures",
+      desc: "Your little help can make milion childrean smile",
    },
    {
       id: 2,
       page:"single_features",
       title: "Child Education Help",
-      desc: "Your little help can make milion childrean smile model sentence structures",
+      desc: "Your little help can make milion childrean smile",
       btn_bg: "btn--yellow",
    },
    {
       id: 3,
       page:"single_features",
       title: "Child Education Help",
-      desc: "Your little help can make milion childrean smile model sentence structures",
+      desc: "Your little help can make milion childrean smile ",
       btn_bg: "btn--green",
    },
 
    // home two
-
-   // {
-   //    id:1,
-   //    page:"home_2",
-   //    icon_name:"flaticon-help",
-   //    title:"Become a volunteer",
-   //    desc:"'Join us as a volunteer and make a real impact in your community. Together, let's create positive change.'",
-   // },
-
    {
       id:1,
       page:"home_2",
@@ -89,8 +80,6 @@ const features_data: DataType[] = [
       desc:"'Join us in empowering the next generation! Your support helps provide quality education to deserving students, unlocking their potential and brightening their future. Together, we can make a lasting impact on the lives of those striving for a better tomorrow."
    },
 
-//    SUPPORT A STUDENT
-// Join us in empowering the next generation! Your support helps provide quality education to deserving students, unlocking their potential and brightening their future. Together, we can make a lasting impact on the lives of those striving for a better tomorrow.
    {
       id:2,
       page:"home_2",
@@ -99,15 +88,6 @@ const features_data: DataType[] = [
       desc:"Join us in making a difference by uplifting struggling families living below the poverty line. Your support can bring them into the mainstream of society. Alternatively, you can empower a woman who seeks to establish her own business, enabling her to meet her household's basic needs and build a brighter future.",
       item_bg:"feature-item--green",   
    },
-   // {
-   //    id:3,
-   //    page:"home_2",
-   //    icon_name:"flaticon-solidarity",
-   //    title:"Adopt a child",
-   //    desc:"Change a child's life through adoption. Your love and support can make a world of difference.",
-   //    item_bg:"feature-item--yellow",
-   // },
-
 
    {
       id:3,

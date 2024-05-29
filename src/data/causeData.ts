@@ -116,7 +116,7 @@ const cause_data: DataType[] = [
       page:"home_2",
       img: cause2Thumb_3,
       title: "Family Health Insurance coverage for needy.",
-      desc: "Protecting the rights of children worldwide. Join us in advocating for their safety, education, and well-being.",
+      desc: "Protecting the rights of children. Join us in advocating for their safety, education, and well-being.",
       raised: 97152,
       goal: 200752,
       percentage: 100,
