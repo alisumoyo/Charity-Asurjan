@@ -64,8 +64,8 @@ const CauseDetailsArea = ({ single_cause }: any) => {
                      <h3 className="title">{single_cause?.title ? single_cause.title : title_1}</h3>
                      <p>{desc_1}</p>
                      <div className="cause-price mt-30">
-                        <span>Raised : $87,689</span>
-                        <span>Goal : $87,689</span>
+                        <span>Raised : $7,689</span>
+                        {/* <span>Goal : $87,29</span> */}
                      </div>
                      <div className="progress">
                         <div className="progress-bar progress-bar-striped progress-bar-animated" style={{ width: "44%" }}></div>
