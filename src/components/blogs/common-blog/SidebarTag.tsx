@@ -7,7 +7,7 @@ const SidebarTag = () => {
       <div className="widget widget_tag_cloud">
          <h5 className="widget-title">Tags</h5>
          <div className="tagcloud">
-            {tags.map((tag, i) => <Link key={i} href="/home-two">{tag}</Link>)}
+            {tags.map((tag, i) => <Link key={i} href="/home">{tag}</Link>)}
          </div>
       </div>
    )

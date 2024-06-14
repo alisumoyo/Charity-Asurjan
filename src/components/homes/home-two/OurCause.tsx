@@ -33,7 +33,7 @@ const OurCause = () => {
                            </div>
                            <h4><Link href="/causes">{item.title}</Link></h4>
                            <div className="cause-price cause-price--green">
-                              <span>Raised : ${item.raised}</span>
+                              <span>Raised : PKR.{item.raised}k</span>
                               {/* <span>Goal : ${item.goal}</span> */}
                            </div>
                            <p> {item.desc}</p>

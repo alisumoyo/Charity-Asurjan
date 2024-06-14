@@ -39,7 +39,7 @@ const blog_data: DataType[] = [
       thumb: blogThumb_1,
       date: 13,
       title: "tincidunt egeting semper",
-      desc: "Maximus a augue. Nullam ante nunc poraretra are oullam fringill sem ealiquam suscipit.......",
+      desc: "Maximus a auguaaaae. Nullam ante nunc poraretra are oullam fringill sem ealiquam suscipit.......",
    },
    {
       id: 2,
@@ -65,7 +65,7 @@ const blog_data: DataType[] = [
       page: "home_2",
       thumb: blog2Thumb_1,
       date: 13,
-      title: "tincidunt egeting semper",
+      title: "Flood Effecties (Bubur-vally)",
       desc: "Maaaaaximus a augue. Nullam ante nunc poraretra are oullam fringill sem ealiquam.......",
    },
    {
@@ -74,7 +74,7 @@ const blog_data: DataType[] = [
       item_bg: "blog-item--green",
       thumb: blog2Thumb_2,
       date: 20,
-      title: "Stroke care puerto ticro",
+      title: "Flood Effecties (Ishkoman-vally)",
       desc: "Maximus a augue. Nullam ante nunc poraretra are oullam fringill sem ealiquam suscipit.......",
    },
    {
@@ -83,7 +83,7 @@ const blog_data: DataType[] = [
       item_bg: "blog-item--yellow",
       thumb: blog2Thumb_3,
       date: 20,
-      title: "posuere imperdi Maecenas",
+      title: "Family Health Insurance support",
       desc: "Maximus a augue. Nullam ante nunc poraretra are oullam fringill sem ealiquam suscipit.......",
    },
 

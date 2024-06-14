@@ -27,6 +27,7 @@ const details_content: ContentData = {
    desc_1: (<>Integer pulvinar elementum iaculis. Phasellus non turpis in nisi semper finibus in sit amet ipsum. Integer ac orci mattis thinke efficitur enim vel, ultrices tortor. Donec tempor commodo enim ac tincidunt. Ut auctor eros nec eserdum, vel viverra elitions faucibus. Nam volutpat pharetra metus a varius. Etiam sit amet orci non</>),
    desc_2: (<>Mauris nec orci dui. Integer id arcu commodo, venenatis nisl ut, ultricies dolor. Phasellus finibus nulla elit, id tincidunt erat varius eget. Proin lobortis urna nec lectus tempor sollicitudin. Maecenas lorem est, fringilla in faucibus quis, efficitur ac ante. Phasellus arcu sapien, egestas quis maximus quis, lobortis sollicitudin erat. vestibulum nisi. In convallis justo et ipsum varius, at euismod elit vulputate. Nunc euismod a nunc</>),
    desc_3: (<>laoreet magna. Phasellus rhoncus vel mauris vitae tristique. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam ultricies eleifend consectetur. In accumsan aliquam velit in convallis. Nulla consequat enim urna, vel tempor diam laoreet nec.</>),
+   
    feature_data: [
       {
          icon: "flaticon-help",

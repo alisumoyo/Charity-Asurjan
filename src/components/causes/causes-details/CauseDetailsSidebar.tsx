@@ -29,8 +29,8 @@ const CauseDetailsSidebar = () => {
                      <div className="content">
                         <h6><Link href="/cause-details">{item.title}</Link></h6>
                         <div className="cause-price">
-                           <span><i className="flaticon-line-chart"></i> Raised : ${item.raised}</span>
-                           <span><i className="flaticon-target"></i> Goal : ${item.goal}</span>
+                           <span><i className="flaticon-line-chart"></i> Raised : pkr.{item.raised}K</span>
+                           {/* <span><i className="flaticon-target"></i> Goal : ${item.goal}</span> */}
                         </div>
                      </div>
                   </li>

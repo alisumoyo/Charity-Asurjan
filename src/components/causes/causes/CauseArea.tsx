@@ -63,8 +63,8 @@ const CauseArea = () => {
                            </div>
                            <h4><Link href={`/causes-details/${item.id}`}>{item.title}</Link></h4>
                            <div className="cause-price cause-price--green">
-                              <span>Raised : ${item.raised}</span>
-                              <span>Goal : ${item.goal}</span>
+                              <span>Raised : PKR{item.raised}+</span>
+                              <span>Goal : PKR{item.goal}</span>
                            </div>
                            <p> {item.desc}</p>
                            <div className="cause-btn">
