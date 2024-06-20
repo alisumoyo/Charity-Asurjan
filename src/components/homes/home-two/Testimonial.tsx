@@ -22,7 +22,7 @@ const Testimonial = ({ style }: any) => {
     }
   }, []);
 
-  const [ImgSrc, setImgSrc] =  useState(testimonialImg);
+  const [ImgSrc, setImgSrc] = useState(testimonialImg);
 
   const handleFirstImgChange = () => {
     setImgSrc(testimonialImg);
@@ -41,33 +41,28 @@ const Testimonial = ({ style }: any) => {
       <div className="container">
         <div className="row gap-100 align-items-center">
           <div className="col-lg-5">
-            <div className="testimonial-two-image rel z-1 rmb-65"
-            style={{
-              position:'relative',
-            }}>
+            <div className="testimonial-two-image rel z-1 rmb-65">
               <Image
                 className="circle-shape top_image_bounce"
                 src={testimonialCircle}
                 alt="World"
-                style={{
-                  position: 'absolute',
-                  top:'0',
-                  left:"0",
-                  backgroundSize:'cover',
-                }}
               />
-               <Image
+              <Image
                 src={ImgSrc}
                 alt="Testimonials"
-                style={{
-                  color: "transparent",
-                  paddingBottom: "45px",
-                  paddingLeft:'5%',
-                  paddingRight:'5%',
-                  boxShadow:
-                    "rgb(187 187 187 / 39%) 0px -67px 15px -10px inset",
-                }}
-                />
+              />
+              <style dangerouslySetInnerHTML={{ __html: `
+                .testimonial-two-image::after {
+                  content: "";
+                  width: 100%;
+                  height: 30%;
+                  position: absolute;
+                  left: 0;
+                  bottom: 0;
+                  background: linear-gradient(to top, #fff, #fff, transparent);
+                  z-index: 10000;
+                }
+              ` }} />
             </div>
           </div>
           <div className="col-lg-7">
