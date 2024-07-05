@@ -12,7 +12,7 @@ interface DataType {
      id: 1,
      page:"home_1",
      icon: "flaticon-solidarity",
-     counter_number: "3M (pkr) ",
+     counter_number: "2.5M",
      title: "Riased by Donors and Ashurjan Welfare Organization Members",
    },
    {

@@ -25,7 +25,7 @@ import blogRcPost_3 from "@/assets/img/widgets/post3.jpg"
 interface DataType {
    id: number;
    page: string;
-   thumb: StaticImageData;
+      thumb: StaticImageData;
    title: string;
    date: number;
    desc?: string;
@@ -65,8 +65,8 @@ const blog_data: DataType[] = [
       page: "home_2",
       thumb: blog2Thumb_1,
       date: 13,
-      title: "Flood Effecties (Bubur-vally)",
-      desc: "Maaaaaximus a augue. Nullam ante nunc poraretra are oullam fringill sem ealiquam.......",
+      title: "Women Empowerment",
+      desc: "Women empowerment is crucial for fostering equality and unlocking the full potential of societies globally.",
    },
    {
       id: 2,
@@ -74,8 +74,8 @@ const blog_data: DataType[] = [
       item_bg: "blog-item--green",
       thumb: blog2Thumb_2,
       date: 20,
-      title: "Flood Effecties (Ishkoman-vally)",
-      desc: "Maximus a augue. Nullam ante nunc poraretra are oullam fringill sem ealiquam suscipit.......",
+      title: "Health Care",
+      desc: "Children's healthcare is crucial for their growth, development, and future well-being, ensuring they have the foundation to reach their full potential and contribute positively to society. Access to quality healthcare services to the community .",
    },
    {
       id: 3,
@@ -83,8 +83,8 @@ const blog_data: DataType[] = [
       item_bg: "blog-item--yellow",
       thumb: blog2Thumb_3,
       date: 20,
-      title: "Family Health Insurance support",
-      desc: "Maximus a augue. Nullam ante nunc poraretra are oullam fringill sem ealiquam suscipit.......",
+      title: "Cummunity Support",
+      desc: "Community support is vital for fostering solidarity, resilience, and positive change within neighborhoods and beyond. By coming together, communities can address challenges, support each other, and create a stronger, more cohesive society.",
    },
 
    // home three

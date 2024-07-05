@@ -96,7 +96,7 @@ const Testimonial = ({ style }: any) => {
                     </div>
                   ))}
               </Slider>
-              <Slider
+              {/* <Slider
                 slidesToShow={3}
                 slidesToScroll={1}
                 asNavFor={slider1Ref.current as Slider | undefined}
@@ -111,29 +111,29 @@ const Testimonial = ({ style }: any) => {
                 focusOnSelect={true}
                 arrows={false}
                 className="testimonial-thumb-two"
-              >
-                <div className="testimonial-thumb-item">
+              > */}
+                {/* <div className="testimonial-thumb-item">
                   <Image
                     src={testimonialThumb_1}
                     alt="Author"
                     onClick={handlethirdImgChange}
                   />
-                </div>
-                <div className="testimonial-thumb-item">
+                </div> */}
+                {/* <div className="testimonial-thumb-item">
                   <Image
                     src={testimonialThumb_2}
                     alt="Author"
                     onClick={handleFirstImgChange}
                   />
-                </div>
-                <div className="testimonial-thumb-item">
+                </div> */}
+                {/* <div className="testimonial-thumb-item">
                   <Image
                     src={testimonialThumb_3}
                     alt="Author"
                     onClick={handleSecImgChange}
                   />
-                </div>
-              </Slider>
+                </div> */}
+              {/* </Slider> */}
             </div>
           </div>
         </div>

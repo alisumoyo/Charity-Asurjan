@@ -12,7 +12,7 @@ const Features = ({ style }: any) => {
                         <div className="feature-item__icon"><i className={item.icon_name}></i></div>
                         <h4><Link href={`/causes-details/${item.id}`}>{item.title}</Link></h4>
                         <p>{item.desc}</p>
-                        <Link className="feature-item__btn" href="#">join us now</Link>
+                        <Link className="feature-item__btn" href="become-volunteers">join us now</Link>
                      </div>
                   </div>
                ))}

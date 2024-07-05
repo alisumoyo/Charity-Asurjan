@@ -8,8 +8,8 @@ const CtaArea = () => {
                <div className="col-xl-8 col-lg-10">
                    <div className="section-title text-center text-white">
                        <h2>Welcome To Save Life And Make A Positive <span>Impact</span></h2>
-                       <p>Only when the society comes together and contributeswe will be able to make an impact.</p>
-                       <Link className="cr-btn mt-30" href="/home-two">Donate Now</Link>
+                       <p></p>
+                       <Link className="cr-btn mt-30" href="/donate">Donate Now</Link>
                    </div>
                </div>
            </div>

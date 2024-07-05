@@ -3,7 +3,7 @@ import cause_data from "@/data/causeData"
 import Image from "next/image"
 import Link from "next/link"
 
-const tags: string[] = ["Charity", "African people", "Community", "Food", "Clean Water", "Education", "Health", "Volunteers", "Homeless child"]
+const tags: string[] = ["Charity",  "Community",'Shelter', "Education", "Health", "Volunteers", "Homeless"]
 
 const CauseDetailsSidebar = () => {
    return (
@@ -47,7 +47,7 @@ const CauseDetailsSidebar = () => {
          
          <div className="widget widget_cta">
             <div className="cta-widget-inner" style={{ backgroundImage: `url(assets/img/widgets/cta-bg.jpg)` }}>
-               <h5>We have provided financial help to 5 million people</h5>
+               <h5>We have provided financial help to 1 million people</h5>
                <a className="cr-btn ml-5" href="donate.html">Donate Now</a>
             </div>
          </div>

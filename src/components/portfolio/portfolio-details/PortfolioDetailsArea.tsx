@@ -17,7 +17,7 @@ const details_content: ContentData = {
    desc_2: (<>Together&quot; lets extend a helping hand and make a tangible difference in the lives of homeless people. By fostering a culture of empathy and solidarity, we can create a brighter future where every individual has the opportunity to thrive, regardless of their circumstances. Join our cause and become part of a compassionate movement dedicated to transforming lives and building stronger, more inclusive communities.&quot;</>),
    desc_3: (<>Making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model words which don&apos;t look even slightly believable. If you are going to use a passage vitae turpis eu ante blandit</>),
    blockquote: (<>&quot;Explore our groundbreaking campaign in Hunza or Gilgit, starting this January. Learn about our unique strategies, from community engagement and investment projects to building partnerships and implementing impactful programs. Join us as we work towards creating positive change and transforming lives in Needy regions.&quot;</>),
-   list: ["Kam adipiscin estibulum", "Food help for african people", "Kam adipiscin estibulum", "Suport Homeless people", "Volenteer", "Donation"],
+   list: ["Health Insurance", "Shelters for natural disaster effecties", "Health-Insurences", "Suport Homeless people", "Volenteer", "Donation"],
 }
 
 const { title_1, desc_1, desc_2, blockquote, desc_3, list } = details_content;

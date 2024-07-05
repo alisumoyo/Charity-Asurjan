@@ -37,8 +37,8 @@ interface DataType {
       page: "home_1",
       thumb: volunteer2Thumb_8,
       name: "Hasil Murad",
-      item_bg: "valunteer-item--green",
-      epithet: "Founding Chairman"
+      epithet: "Founding Chairman",
+      item_bg: "valunteer-item--green"
    },
    {
       id: 2,
@@ -53,16 +53,16 @@ interface DataType {
       page: "home_1",
       thumb: volunteerThumb_1,
       name: "Ehsan Karim",
-      item_bg: "valunteer-item--yellow",
-      epithet:"General Secretary"
+      epithet:"General Secretary",
+      item_bg: "valunteer-item--yellow"
    },
    {
       id: 4,
       page: "home_1",
       thumb: volunteerThumb_2,
       name: "Muhammad Aslam",
-      item_bg: "valunteer-item--green",
-      epithet:'Finance secretary'
+      epithet:'Finance secretary',
+      item_bg: "valunteer-item--green"
    },
    {
       id: 5,

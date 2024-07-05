@@ -1,6 +1,6 @@
 import Link from "next/link"
 
-const tags: string[] = ["Charity", "African people", "Community", "Food", "Clean Water", "Education", "Health", "Volunteers", "Homeless child"]
+const tags: string[] = ["Charity", "Community", "Education", "Health", "Volunteers", "Homeless-child"]
 
 const SidebarTag = () => {
    return (

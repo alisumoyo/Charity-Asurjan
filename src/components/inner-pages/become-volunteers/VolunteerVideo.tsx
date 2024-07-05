@@ -18,10 +18,10 @@ interface ContentType {
 const content_data: ContentType = {
    desc_1: (<>Our mission is to make the world a better place for everyone. Everyone has their rights equally and we want to make sure that people can get food, education, treatment and accommodation for everyone who is living in poverty.</>),
    desc_2: (<>The great journey to end poverty for good begins with a child. Due to natural disasters and man made disasters so many people are suffering so help to recover them.</>),
-   desc_3: (<>Making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model words which don&apos;t look even slightly believable. If you are going to use a passage vitae turpis eu ante blandit</>),
-   list: ["Kam adipiscin estibulum", "Food help for african people", "Kam adipiscin estibulum", "Suport Homeless people", "Volenteer", "Donation"],
-   tags: ["Homeless", "Donation", "African", "Education"],
-   earning_doner: [{ title: "Goal:", earning: "$17,568" }, { title: "Raised:", earning: "$15,784" }, { title: "Total Doner:", earning: "250+" },]
+   desc_3: (<>Our charity provides health insurance, shelters, women empowerment, and homeless support. Through volunteering and donations, we foster community solidarity and positive change.</>),
+   list: [" Health Insurance", "Shelters for the needy peoples", "Women-Empoverment", "Suport Homeless people", "Volenteer", "Donation,"],
+   tags: ["Homeless", "Donation", "Education", "Insurence" , 'Charity'],
+   earning_doner: [ { title: "Raised:", earning: "$100" }, { title: "Total Doner:", earning: "250+" },]
 }
 
 const { desc_1, desc_2, desc_3, list, tags, earning_doner } = content_data;

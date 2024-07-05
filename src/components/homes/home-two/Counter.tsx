@@ -14,7 +14,7 @@ const Counter = () => {
                      </div>
                      <i>Helped <span>500+</span> Peoples<br />in Need.</i>
                      <div className="counter-btns pt-5 mb-100">
-                        <Link className="cr-btn btn--yellow" href="#">Contact us</Link>
+                        <Link className="cr-btn btn--yellow" href="contact">Contact us</Link>
                      </div>
                      <div className="row">
                         {counter_data.filter((item) => item.page === "home_2").map((item) => (

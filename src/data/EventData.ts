@@ -97,7 +97,7 @@ const event_data: DataType[] = [
       thumb: event2Thumb_1,
       title: "Food For Hunger",
       time: "Sunday, 08:00am",
-      city: "Gilgit City",
+      city: "Gojal Hunza",
       date:25,
    },
    {
@@ -106,7 +106,7 @@ const event_data: DataType[] = [
       thumb: event2Thumb_4,
       title: "Education For Children",
       time: "Satday, 09:00pm",
-      city: "Zulfiqarabad, Gilgit",
+      city: "Gilgit City",
       date:31,
 
    },
@@ -116,7 +116,7 @@ const event_data: DataType[] = [
       thumb: event2Thumb_3,
       title: "Clean Water Event",
       time: "Monday, 02:00pm",
-      city: "Aliabad, Hunza",
+      city: "Bubur Ghizar",
       date:30,
       item_bg:"event-two-item--yellow"
    },
@@ -126,7 +126,7 @@ const event_data: DataType[] = [
       thumb: event2Thumb_2,
       title: "Adopt a Orphan Child",
       time: "Friday, 10:00am",
-      city: "Karimabad, Hunza",
+      city: "Ishkoman Ghizar",
       date:28,
       item_bg:"event-two-item--green"
    },

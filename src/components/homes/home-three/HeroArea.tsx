@@ -8,8 +8,8 @@ const HeroArea = () => {
                <h1>Donations even if it is a small can bring <span>bigger</span></h1>
                <p>Only when the society comes together and contributesIt was popularised in the t we will be able to make an impact.</p>
                <div className="hero-btns pt-30 rpt-10">
-                  <Link className="cr-btn" href="#">Donate Now</Link>
-                  <Link className="cr-btn btn--yellow btn--green" href="#">know more</Link>
+                  <Link className="cr-btn" href="/donate">Donate Now</Link>
+                  <Link className="cr-btn btn--yellow btn--green" href="about">know more</Link>
                </div>
             </div>
          </div>

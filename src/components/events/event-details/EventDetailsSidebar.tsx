@@ -101,7 +101,7 @@ const EventDetailsSidebar = () => {
             style={{ backgroundImage: `url(assets/img/widgets/cta-bg.jpg)` }}
           >
             <h5>We have provided financial help to 5 million people</h5>
-            <Link className="cr-btn ml-5" href="donate.html">
+            <Link className="cr-btn ml-5" href="donate">
               Donate Now
             </Link>
           </div>

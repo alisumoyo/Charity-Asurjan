@@ -30,7 +30,7 @@ const UrgentCause = () => {
                            <div className="progress-bar progress-bar-striped progress-bar-animated" style={{ width: "60%" }}></div>
                         </div>
                         <div className="urgent-cause-btn">
-                           <Link className="cr-btn" href="#">Donation now</Link>
+                           <Link className="cr-btn" href="donate">Donation now</Link>
                            {/* <Link className="cr-btn btn--green" href="#">Know More</Link> */}
                         </div>
                      </div>

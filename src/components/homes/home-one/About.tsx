@@ -66,7 +66,7 @@ const About = () => {
                            </div>
                         </div>
                      ))}
-                     <Link className="cr-btn ml-5 mt-25" href="#">Didcover more</Link>
+                     <Link className="cr-btn ml-5 mt-25" href="portfolio-details">Discover more</Link>
                   </div>
                </div>
             </div>
