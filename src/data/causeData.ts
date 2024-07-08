@@ -103,7 +103,7 @@ const cause_data: DataType[] = [
       img: cause2Thumb_2,
       title: " Financial support to flood affectees of (Ishkomen-Valley)",
       desc:"Our support aids Ishkoman-Valley flood victims in rebuilding homes and infrastructure.",
-      raised: 2,
+      raised: 3,
       goal: 100752,
       percentage: 100,
       progress_bg:"two",

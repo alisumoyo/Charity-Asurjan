@@ -19,7 +19,7 @@ const content_data: ContentType = {
    desc_1: (<>Our mission is to make the world a better place for everyone. Everyone has their rights equally and we want to make sure that people can get food, education, treatment and accommodation for everyone who is living in poverty.</>),
    desc_2: (<>The great journey to end poverty for good begins with a child. Due to natural disasters and man made disasters so many people are suffering so help to recover them.</>),
    desc_3: (<>Our charity provides health insurance, shelters, women empowerment, and homeless support. Through volunteering and donations, we foster community solidarity and positive change.</>),
-   list: [" Health Insurance", "Shelters for the needy peoples", "Women-Empoverment", "Suport Homeless people", "Volenteer", "Donation,"],
+   list: [" Health Insurance", "Shelters for homeless", "Women-Empoverment", "Volenteer", "Donation,"],
    tags: ["Homeless", "Donation", "Education", "Insurence" , 'Charity'],
    earning_doner: [ { title: "Raised:", earning: "$100" }, { title: "Total Doner:", earning: "250+" },]
 }
