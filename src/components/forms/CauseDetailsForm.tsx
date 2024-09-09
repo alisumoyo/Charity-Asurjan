@@ -29,7 +29,10 @@ const schema = yup
    })
    .required();
 
-interface PriceDataType {
+   // join hepls to combine 2 tables rows with the help of the common attributes in the both tables , like with the help of foreign key and primary key 
+   // it basically joins the rows of those both tables ,.
+
+   interface PriceDataType {
    id: number;
    price_id: string;
    price_title: number | string;
@@ -204,7 +207,7 @@ const CauseDetailsForm = () => {
                            checked={paymentMethod === item.price_id}
                            onChange={() => handlePaymentMethod(item.price_id)}
                         />
-                        <label className="form-check-label" htmlFor={item.price_id}> Credit Card</label>
+                        <label className="form-check-label" htmlFor={item.price_id}> {item.price_title}</label>
                      </div>
                   ))}
                </div>

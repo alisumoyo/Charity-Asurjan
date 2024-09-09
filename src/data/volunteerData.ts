@@ -87,7 +87,7 @@ interface DataType {
       thumb: volunteer2Thumb_5,
       name: "Fida Hussain",
       item_bg: "valunteer-two-item__des--green",
-      epithet:'Volnteer',
+      epithet:'Legal Advisor',
    },
    {
       id: 8,
@@ -158,7 +158,7 @@ interface DataType {
       id: 17,
       page: "home_1",
       thumb: volunteer1Thumb_17,
-      name: "Unknown",
+      name: "Gulam-Rehbar",
       item_bg: "valunteer-item--yellow",
       epithet:'Volnteer'
    },
