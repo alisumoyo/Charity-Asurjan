@@ -649,15 +649,16 @@
 
 //toggle button css
 .toggle-btn {
-    left: auto;
+   
     right: 0;
     position: absolute;
-    top: 4px;
+    top: 14px;
     width: 30px;
     height: 40px;
     transition-duration: 0.5s;
     border: 0;
     background: transparent;
+
 
     .icon-left {
         transition-duration: 0.5s;
